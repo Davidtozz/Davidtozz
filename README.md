@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Davidtozz</h1>
+<h1 align="center">Hi 👋, I'm Davide!</h1>
 <h3 align="center">A Junior software developer from Italy</h3>
 
 - 🌱 I’m currently learning more about **.NET 10, Svelte 5, Cloud and AI**
