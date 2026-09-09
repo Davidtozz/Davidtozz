@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Davide!</h1>
-<h3 align="center">A Junior software developer from Italy</h3>
+<h3 align="center">Junior .NET Software developer from Italy</h3>
 
-- 🌱 I’m currently learning more about **.NET 10, Svelte 5, Cloud and AI**
+- Currently learning more about **.NET 10, Svelte 5, Cloud and AI**
 
-- 📫 You can reach me at: **davidepulvirenti2013@gmail.com**
+- Contact: **davidepulvirenti2013@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
